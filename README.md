@@ -1,6 +1,6 @@
 # Snowball Learning
 
-Learning to design and train superhuman policies from first principles. Each notebook is a self-contained experiment building toward world models, RL, and neural plasticity. Starting with raw PyTorch mechanics — no wrappers, no vibe coding.
+The goal is to learn the basics of pytorch and other basic libraries, so that I (and others) can get an intuitive understanding of how the primitive building blocks work - so that I can design and train superhuman policies. Each notebook is a self-contained experiment building toward world models, RL, and neural plasticity. Starting with raw PyTorch mechanics — no wrappers, no vibe coding.
 
 ## Roadmap
 
